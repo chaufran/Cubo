@@ -44,7 +44,7 @@
 }
 
 .cubo .cara:nth-child(4){
-	background: orange;
+	background: green;
 	transform: translateX(150px)
 	           rotateY(-90deg);
    
