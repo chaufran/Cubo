@@ -28,7 +28,7 @@
 }
 
 .cubo .cara:nth-child(2){
-	background: green;
+	background: black;
 	transform: translateZ(-150px);
 	/*traigo la cara desde
 	el centro, 150px atras*/
